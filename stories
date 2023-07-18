@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post Story</title>
+</head>
+<body style="line-height: 30px;">
+<form style="width: 100%;
+height: 100%;
+">
+
+    <center style="background-color: brown;">
+        <hr>
+    &hearts;&hearts;&hearts;Post Story&hearts;&hearts;&hearts;
+
+    <hr>
+    </center>
+<!-- </center> -->
+<center style="background-color: aquamarine;">
+Enter Groom Name <input type="text"><br><br>
+Enter Bride Name<input type="text"><br><br>
+Enter Groom Id <input type="id"><br><br>
+Enter Bride Id<input type="id"><br><br>
+Marriage Date <input type="text"><br><br>
+<input type="file"><br>
+<center style="background-color: brown;">
+    <hr>
+
+    &hearts;&hearts;&hearts;Write your Story&hearts;&hearts;&hearts;
+    <hr>
+    </center>
+    
+
+Enter Stories<br>
+<textarea name="" id="" cols="30" rows="10"></textarea>
+</form>
+
+</center>
+    
+</body>
+</html>
